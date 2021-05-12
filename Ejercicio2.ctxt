@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Ejercicio2
+comment0.text=\r\n\ Ejercicio\ 2\ de\ la\ 1ra\ Tarea\ del\ Segundo\ parcial.\r\n\ \r\n\ @author\ (lisandro)\ \r\n\ @version\ (12/05/2021)\r\n
+comment1.params=
+comment1.target=Ejercicio2()
+comment1.text=\r\nEl\ constructor\ estar\u00E1\ vacio\r\n
+comment2.params=cantidad
+comment2.target=void\ sucesion(int)
+comment2.text=\r\n\ En\ este\ metodo\ se\ va\ a\ especificar\ la\ cantidad\ de\ valores\ que\ quiere\ obtener\r\n
+numComments=3
